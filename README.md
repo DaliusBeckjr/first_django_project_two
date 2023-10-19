@@ -4,8 +4,8 @@
 
 
 ### Information
-[steps](./markdown/todo.md)
-[video](https://www.youtube.com/watch?v=O5Mqfi4rIbw)
+* [steps](./markdown/todo.md)
+* [video](https://www.youtube.com/watch?v=O5Mqfi4rIbw)
 
 ### activate the Environment
 
