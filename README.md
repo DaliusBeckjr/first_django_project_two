@@ -3,6 +3,14 @@
 
 
 
+### Information
+[steps](./markdown/todo.md)
+[video](https://www.youtube.com/watch?v=O5Mqfi4rIbw)
+
 ### activate the Environment
 
 <code> source Py3Env/bin/activate </code>
+
+### Run the project 
+<code> python3 manage.py runserver </code>
+
