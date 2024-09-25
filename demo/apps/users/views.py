@@ -2,7 +2,8 @@ from django.shortcuts import render, redirect, HttpResponse
 
 # Create your views here.
 def index(request):
-    pass
+    if request.method == "GET":
+        return render(request, "index.html")
 
 def register(request):
     return HttpResponse("placeholder for users to create a new user record")
